@@ -1,5 +1,5 @@
 [
-  {
+    "icon": "https://i.imgur.com/raYXJgv.jpeg",
     "ip": "127.0.0.1",
     "port": 7777,
     "name": "Servidor Local",
@@ -8,6 +8,7 @@
     "players": "3/20"
   },
   {
+    "icon": "https://i.pinimg.com/originals/b1/9a/09/b19a09cda6dae4371cbb721d0b5cb8ea.gif",
     "ip": "mi-servidor.com",
     "port": 7777,
     "name": "Servidor Oficial 1",
