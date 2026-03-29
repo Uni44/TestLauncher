@@ -1,0 +1,20 @@
+[
+	{
+		"ip": "127.0.0.1",
+		"port": 7777,
+		"name": "Servidor Local",
+		"name2": "LAN",
+		"version": "0.19.0",
+		"players": "3/20",
+		"ping": 25
+	},
+	{
+		"ip": "mi-servidor.com",
+		"port": 7777,
+		"name": "Servidor Oficial 1"
+		"name": "name2",
+		"version": "0.20.0",
+		"players": "14/20",
+		"ping": 44
+	}
+]
