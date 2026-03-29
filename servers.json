@@ -2,19 +2,19 @@
   {
     "icon": "https://i.imgur.com/raYXJgv.jpeg",
     "ip": "127.0.0.1",
-    "port": 7777,
+    "port": 44444,
     "name": "Servidor Local",
     "name2": "LAN",
     "version": "0.19.0",
-    "players": "3/20"
+    "players": "0/20"
   },
   {
     "icon": "https://preview.redd.it/zzz-icon-gallery-feel-free-to-share-with-fellow-proxies-i-v0-o8s4h8bymavd1.png?width=200&format=png&auto=webp&s=3ce3e8dab3b831adaaf42a817e99fcb0d659d488",
-    "ip": "mi-servidor.com",
-    "port": 7777,
+    "ip": "26.154.77.233",
+    "port": 44444,
     "name": "Servidor de pruebas",
     "name2": "ahora muerto por no pagar 100 dolares",
-    "version": "0.18.0",
-    "players": "0/44"
+    "version": "0.20.0",
+    "players": "1/44"
   }
 ]
