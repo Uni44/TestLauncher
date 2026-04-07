@@ -5,7 +5,7 @@
     "port": 44444,
     "name": "Servidor Local",
     "name2": "LAN",
-    "version": "0.19.0",
+    "version": "24.1",
     "players": "0/20"
   },
   {
@@ -14,16 +14,16 @@
     "port": 44444,
     "name": "Servidor de pruebas",
     "name2": "ahora muerto por no pagar 100 dolares",
-    "version": "0.20.0",
+    "version": "24.1",
     "players": "2/44"
   },
   {
     "icon": "https://supporters-accommodation-new-silly.trycloudflare.com/cdn/avatars/1.png",
-    "ip": "https://supporters-accommodation-new-silly.trycloudflare.com/",
+    "ip": "127.0.0.1",
     "port": 44444,
     "name": "Servidor de pruebas 2",
     "name2": "ahora es personal",
-    "version": "0.21.0",
+    "version": "24.1",
     "players": "1/44"
   }
 ]
